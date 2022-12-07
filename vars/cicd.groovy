@@ -1,5 +1,5 @@
 
-def new(a)
+def newdown(a)
 {
 git "https://github.com/viky9966/${a}"
 }
